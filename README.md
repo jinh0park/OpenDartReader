@@ -166,8 +166,6 @@ dart.list_date_ex('2022-10-03')
 rcp_no = '20220308000798' 
 dart.sub_docs(rcp_no) # 하위 문서 제목과 URL
 dart.sub_docs(rcp_no, match='감사의견')  # 제목이 잘 매치되는 순서로 소트
-dart.attach_doc_list(rcp_no) # 첨부 문서(i.e. 감사보고서) 제목과 URL
-dart.attach_doc_list(rcp_no, match='감사의의견서') # 제목이 잘 매치되는 순서로 소트
 
 # 첨부 파일 제목과 URL
 dart.attach_files(rcp_no)
