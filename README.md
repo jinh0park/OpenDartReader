@@ -205,4 +205,4 @@ for k in dart.attach_files('20221111000817'):
 * [OpenDartReader - 현대차 기아차 계속 보유해야 할까 (지분공시)](https://nbviewer.jupyter.org/90f5d24c26648438c792eb9fdb3f6980) 
 
 
-***2021-2023 [FinanceData.KR]() | [facebook.com/financedata]()***
+**2021-2025 [FinanceData.KR]()**
